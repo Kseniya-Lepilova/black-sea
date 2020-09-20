@@ -1,5 +1,7 @@
 # Домашнее задание к уроку 6
 
+https://kseniya-lepilova.github.io/lesson-6/
+
 ### Верстаем макет.
 
 ***
