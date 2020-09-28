@@ -1,6 +1,6 @@
 # Домашнее задание к уроку 6
 
-https://kseniya-lepilova.github.io/lesson-6/
+https://kseniya-lepilova.github.io/black-sea/
 
 ### Верстаем макет.
 
